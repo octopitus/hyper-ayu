@@ -1,15 +1,15 @@
 // Constants
-const backgroundColor = '#0F1419';
-const foregroundColor = '#e6e1cf';
+const backgroundColor = '#d9d7ce';
+const foregroundColor = '#212733';
 
 // Colors
 const RED = '#ff3333';
-const GREEN = '#89b73d';
-const YELLOW = '#f49c20';
-const BLUE = '#3ea7dc';
+const GREEN = '#bae67e';
+const YELLOW = '#ffd580';
+const BLUE = '#5ccfe6';
 const MAGENTA = '#b37ed0';
 const LIGHT_GRAY = '#f2f2f2';
-const DARK_GRAY = '#828c9a'
+const DARK_GRAY = '#607080'
 
 // Mapped Colors
 const colors = {
