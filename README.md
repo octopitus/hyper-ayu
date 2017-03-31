@@ -1,4 +1,4 @@
-# Ayu (dark) for Hyper
+# Ayu (Mirage) for Hyper
 
 Ayu for [Hyper](https://hyper.is/) is a simple theme with
 bright colors that come from the original
